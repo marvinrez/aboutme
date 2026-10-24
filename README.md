@@ -39,6 +39,10 @@ Senior product designer at [Hive](https://hive.co), with 16 years in product des
 ## Latest writing
 
 <!-- MEDIUM:START -->
+- [When AI Makes the Wrong Call, Design Becomes the Guardrail](https://aiadvances.org/ai-governance-ux-trust-accountability-1b0bd9b2c05b?source=rss-b394966a77aa------2)
+- [How to turn a generalist AI into a UX reasoning partner](https://medium.com/codetodeploy/how-to-turn-a-generalist-ai-into-a-ux-reasoning-partner-0538133db8e8?source=rss-b394966a77aa------2)
+- [The AI adoption theatre: When innovation becomes performance](https://uxdesign.cc/the-ai-adoption-theatre-when-innovation-becomes-performance-fd03bb16b0ce?source=rss-b394966a77aa------2)
+- [UX portfolio: Using craft and AI to rise beyond the crowd](https://uxplanet.org/ux-portfolio-using-craft-and-ai-to-rise-beyond-the-crowd-f2b49b280914?source=rss-b394966a77aa------2)
 <!-- MEDIUM:END -->
 
 ## Speaking and recognition
