@@ -29,8 +29,12 @@ Senior product designer at [Hive](https://hive.co), with 16 years in product des
 
 ## Latest videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+- [NearLens: detect smart glasses recording near you](https://www.youtube.com/watch?v=ITRStXOPpIA)
+- [Operationalizing AI ethics: Ottawa Responsible AI Summit 2025 panel](https://www.youtube.com/watch?v=GQzGWZN-KdE)
+- [Design decision-making framework in Miro: Miro Distributed '23 talk](https://www.youtube.com/watch?v=s4TV6WGTU4A)
+- [RX Reader AI: reading handwritten prescriptions with AI](https://www.youtube.com/watch?v=M2bw5RDHzAk)
+
+[All videos on YouTube](https://www.youtube.com/@MarcosRezende/videos)
 
 ## Latest writing
 
