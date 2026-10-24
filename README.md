@@ -6,7 +6,7 @@ Senior product designer at [Hive](https://hive.co), with 16 years in product des
 
 [Portfolio](https://www.marcosrezende.com) · [Book](https://www.marcosrezende.com/book-intelligent-interfaces) · [YouTube](https://www.youtube.com/@MarcosRezende) · [LinkedIn](https://www.linkedin.com/in/marcosrezende/) · [Medium](https://marcosrezende.medium.com/) · [Gumroad](https://marcosrezende.gumroad.com/) · [Mentorship](https://www.marcosrezende.com/ux-mentorship) · [CV](https://marcosrezende.link/cv)
 
-Participant, [W3C Design Tokens Community Group (DTCG)](https://www.w3.org/groups/cg/design-tokens/).
+Joining the W3C [Design Tokens Community Group (DTCG)](https://www.w3.org/groups/cg/design-tokens/) and [Web Components Community Group](https://www.w3.org/groups/cg/webcomponents/) as an individual contributor.
 
 ## Book
 
