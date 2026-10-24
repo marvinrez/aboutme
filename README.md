@@ -1,60 +1,47 @@
-# aboutme
+# Marcos Rezende
 
-Hi, I'm Marcos Rezende 👋
+I design AI systems that people can supervise, reverse and audit.
 
-I'm a product designer and researcher with 16 years of experience designing AI products, developer-facing tools, and design systems. I work where design meets code: I prototype in code, ship production components, and write the rules that make AI features behave predictably.
+Senior product designer at [Hive](https://hive.co), with 16 years in product design and the last several focused on AI: agentic workflows, automation and design systems shipped as code. Before Hive, I led design for SharePoint News and AI experiences in the Microsoft 365 Copilot ecosystem at Microsoft, and designed AI, ML and automation features at Qlik.
 
-**Now**
+[Portfolio](https://www.marcosrezende.com) · [Book](https://www.marcosrezende.com/book-intelligent-interfaces) · [YouTube](https://www.youtube.com/@MarcosRezende) · [LinkedIn](https://www.linkedin.com/in/marcosrezende/) · [Medium](https://marcosrezende.medium.com/) · [Gumroad](https://marcosrezende.gumroad.com/) · [CV](https://marcosrezende.link/cv)
 
-I'm a Senior Product Designer at Hive, where I lead design end to end for AI automation features on a global event marketing platform. I'm one of two designers in an engineering-first team, so I extend the design system directly into production-ready coded components with Claude Code, MCP, and GitHub, working alongside engineers in the presentation layer instead of handing off static files.
+## Book
 
-Before Hive, I spent two years at Microsoft leading design for SharePoint News and AI experiences in the Microsoft 365 Copilot ecosystem. Before that, I designed AI, ML, and automation features at Qlik.
+**Intelligent Interfaces: Designing AI Experiences, Behavioral Systems and Product Decisions** (Brauer, Portuguese edition). What a person needs to see, understand and act on when a system makes decisions on their behalf. [Get launch updates](https://www.marcosrezende.com/book-intelligent-interfaces)
 
-**What I work on**
+## Products I designed and built
 
-- AI automation features, from problem framing and UX flows to motion and coded components
-- Design systems as code: Figma → Claude Code + MCP → GitHub, with accessibility (WCAG 2.1 AA) built in
-- Agentic systems people can supervise: reversibility, auditability, and human oversight (my framework, Reversion by Design)
-- Research that changes decisions: discovery, moderated usability testing, heuristic evaluation, measurement plans
-- Agent skills for designers and builders: open-source tools for UX reasoning, writing, and security
-- Independent AI products: RX Reader AI, NearLens, PingBack
+- [NearLens](https://nearlens.app/): iOS app that detects nearby smart glasses over Bluetooth. Designed, coded and shipped to the App Store.
+- [RX Reader AI](https://rxreader.ai/): reads medical prescriptions with LLM and vision. Generative AI Awards global winner (2025), listed in the WHO Digital Health Atlas.
+- [Reversion by Design](https://reversion.works/): a card-based method for designing AI actions that people can undo.
+- [Mestra IA](https://mestra.ia.br/): AI and human feedback on ENEM essays.
+- PingBack: an AI workshop co-facilitator for Miro, built on Claude and demoed at Miro Canvas '26.
 
-**Selected work**
+## Open source
 
-✔ **Microsoft, SharePoint News & Copilot.** Built a News card system from scratch, with a size hierarchy tied to content relevance and a "Why am I seeing this?" layer that explains the ranking. Shipped SharePoint's first dynamic color extraction, with an automatic WCAG contrast fallback. Reframed the Copilot Audio Briefing adoption gap as a discovery problem; the inline entry point I recommended was adopted by both the OneDrive and SharePoint teams. Took a redesign that had sat in the backlog for years to production in three months.
+- [ux-wise-agent](https://github.com/marvinrez/ux-wise-agent): a UX reasoning partner for designers and PMs that challenges weak design reasoning instead of suggesting features. Also in [Portuguese](https://github.com/marvinrez/ux-wise-agent-pt-br).
+- [vibe-security-check](https://github.com/marvinrez/vibe-security-check): security audit skills for apps built with AI, including vibe-lint for prototype handoff.
+- [design-tokens-sync](https://github.com/marvinrez/design-tokens-sync): Figma plugin that imports and exports W3C DTCG design tokens as Figma variables.
+- [point-first](https://github.com/marvinrez/point-first): workplace English coach for professionals who work in a second language.
+- [authentic-voice](https://github.com/marvinrez/authentic-voice): editing skill that removes AI writing patterns and holds text to an editorial standard.
+- [mobile-wireframe-stitch](https://github.com/marvinrez/mobile-wireframe-stitch): behavioural constraints for generating mobile wireframes in Google Stitch.
 
-✔ **Qlik, AI/ML & Automation.** Reframed Insight Advisor's retention problem as an architectural constraint (context retention between queries), which shaped roadmap goals including LLM replacement and NLG rewriting. Defined the measurement plan before launch; Forbes named the product among the Top 7 Data Visualization Tools in Marketing for 2023, Best for AI. Designed core screens for the Qlik Sense mobile app and evolved the Sprout design system.
+## Latest videos
 
-✔ **Independent products.** RX Reader AI uses LLM + vision to read prescriptions; it won the Generative AI Awards in Healthcare and Life Sciences (2025) and is listed in the WHO Digital Health Atlas. NearLens is an iOS privacy tool I designed, coded, and shipped to the App Store. PingBack is an AI workshop co-facilitator for Miro built on Claude, demoed at Miro Canvas '26 and featured as a plugin.
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-**Open source**
+## Latest writing
 
-- [ux-wise-agent](https://github.com/marvinrez/ux-wise-agent): UX Wise AI as an agent skill. A UX reasoning partner that challenges weak design reasoning instead of suggesting features.
-- [vibe-security-check](https://github.com/marvinrez/vibe-security-check): security audit skills for apps built with AI, covering the app you ship and the pipeline that built it. Includes vibe-lint, which checks whether an engineer can take a prototype over.
-- [authentic-voice](https://github.com/marvinrez/authentic-voice): an editing skill that removes AI writing patterns and holds text to an editorial standard for register and rhythm.
-- [mobile-wireframe-stitch](https://github.com/marvinrez/mobile-wireframe-stitch): a behavioral constraint system for generating mobile wireframes in Google Stitch.
-- [straight-to-the-point](https://github.com/marvinrez/straight-to-the-point): a workplace English coach for senior professionals who work in English as a second language.
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
-**How I build**
+## Speaking and recognition
 
-1. Frame the problem before the screen: what is the user asking when they arrive here?
+- **Talks:** Miro Canvas '26 (San Francisco), UXAI Conf 2026, Ottawa Responsible AI Summit, AI @ Work Summit (Talent Canada), UX 360 Summit, IxDA
+- **Awards:** Microsoft Global Hackathon overall winner, AI (2024); Generative AI Awards global winner for RX Reader AI (2025); Indigo Awards silver, AI for Web Design, for UX Wise AI (2026); Davey Awards gold, Best User Interface (2023)
+- **Writing:** featured perspective in *Employment Is Dead* (Harvard Business Review Press, 2025); articles in UX Collective, Microsoft Design and UX Planet
+- **Education:** postgraduate degree in AI for Design, IADE European University; MIT Executive Program in HCI for UX Design
 
-2. Prototype in code early to test behavior, not just layout
-
-3. Ship components, not files: Figma → Claude Code + MCP → GitHub
-
-4. Treat prompts and agent rules as specs, with constraints and expected outputs
-
-5. Validate with real usage, logs, and edge cases, and write decisions down so a distributed team can follow them async
-
-**Speaking, writing & recognition**
-
-- Speaking: Miro Canvas '26 (San Francisco), UXAI Conf 2026 keynote on Reversion by Design, AI @ Work Summit Talent Canada, Ottawa Responsible AI Summit, UX 360 Summit, IxDA
-- Writing: author of *Intelligent Interfaces* (Brauer); featured perspective in *Employment Is Dead* (Harvard Business Review Press, 2025); articles on generative AI in UX Collective, Microsoft Design, and UX Planet
-- Awards: Microsoft Hackathon overall winner, AI, Experiences + Devices (2024); Generative AI Awards global winner for RX Reader AI (2025); Indigo Awards global silver, AI for Web Design, for UX Wise AI (2026); Davey Awards gold, Best User Interface (2023)
-- Education: Postgraduate degree in AI for Design, IADE European University (2025–2026); MIT Executive Program in HCI for UX Design (2023)
-- Mentoring: AI and product design mentor at MentorCruise
-
-If you're building AI products and want to talk about design in code, agent behavior, design systems, or research, feel free to reach out.
-
-hello@marcosrezende.com · [marcosrezende.com](https://marcosrezende.com) · [LinkedIn](https://www.linkedin.com/in/marcosrezende)
+Building AI products and want to talk about agent behaviour, design systems or research? Write to hello@marcosrezende.com.
