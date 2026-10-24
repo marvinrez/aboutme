@@ -1,0 +1,31 @@
+name: Update latest videos and writing
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZgFZ2wEKOpk1YxL51cMPTw"
+          max_post_count: 4
+          commit_message: "Update latest videos"
+
+      - name: Latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://marcosrezende.medium.com/feed"
+          max_post_count: 4
+          commit_message: "Update latest writing"
