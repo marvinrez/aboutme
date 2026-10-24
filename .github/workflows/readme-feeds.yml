@@ -1,4 +1,4 @@
-name: Update latest videos and writing
+name: Update latest writing
 
 on:
   schedule:
@@ -12,15 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Latest YouTube videos
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZgFZ2wEKOpk1YxL51cMPTw"
-          max_post_count: 4
-          commit_message: "Update latest videos"
+      - uses: actions/checkout@v5
 
       - name: Latest Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
